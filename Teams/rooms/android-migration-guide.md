@@ -57,7 +57,7 @@ When creating an enrollment profile, verify it doesn't conflict with any enrollm
 
 1. Sign in to the Intune Management Console with an account with Intune administrator permissions: [https://intune.microsoft.com/](https://intune.microsoft.com/).
 2. Select **Devices** > **Enrollment** > then **Android**.
-3. Under **Enrollment Profiles**, select **Corporate-owned, user-associated device**.
+3. Under **Enrollment Profiles**, select **Corporate-owned, user-associated devices**.
 4. Select **Create policy**.
 5. Use the following settings for the profile configuration:
 
